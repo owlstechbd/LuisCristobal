@@ -1,0 +1,413 @@
+@media screen and (max-width: 720px){
+
+    /* index */
+
+    #content {
+        padding: 50px 10px;
+    }
+    .right-btn{
+        display: flex;
+        margin-left: -8px;
+    }
+    .right-btn button {
+        margin-left: 0;
+        margin-right: 5px;
+    }
+    .headar-menu ul li a{
+        font-size: 16px;
+    }
+    .content-info-top {
+        display: block;
+        padding: 30px 0;
+    }
+    .head-top {
+        display: block;
+        text-align: center;
+    }
+    .head-menu ul {
+         margin-left: 43px; 
+    }
+    .goal-box {
+        padding-bottom: 20px;
+        height: auto;
+    }
+    .about-details {
+        padding-bottom: 10px ;
+    }
+    .Project-timer {
+        display: block;
+    }
+    .Project{
+        margin: 30px 0;
+    }
+    .handoff-box {
+        padding: 20px;
+        height: auto;
+    }
+    .title h1 {
+        font-size: 45px;
+        margin-bottom: 30px;
+    }
+    .title p {
+        font-size: 30px;
+    }
+    .content-photo {
+        margin-top: 20px;
+    }
+    .left{
+        padding-bottom: 25px;
+    }
+    .left h4 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+
+    /* Impalas Magazine */
+
+    .head-menu{
+        margin-left: -40px;
+        margin-top: 20px;
+    }
+    .head-top h1 {
+        font-size: 35px;
+        margin-left: -40px;
+    }
+    .about-details p {
+        font-size: 20px;
+    }
+    .context-main p {
+        font-size: 20px;
+    }
+    .context-main p span{
+        font-size: 20px;
+    }
+    .problem2-box {
+        height: auto;
+        padding: 20px;
+    }
+    .problem2-main {
+        padding: 40px 25px;
+    }
+    .problem2-main p {
+        font-size: 20px;
+    }
+    .problem2-main-top p {
+        font-size: 20px;
+    }
+    .problem2-right h5 {
+        font-size: 22px;
+    }
+    .redesign-main p {
+        font-size: 20px;
+    }
+    .redesign-box {
+        padding: 30px;
+    }
+    .challenges-main p {
+        font-size: 22px;
+    }
+    .challenges-main ul li {
+        margin-bottom: 25px;
+        font-size: 21px;
+    }
+    .challenges-main ul li span{
+        font-size: 21px;
+    }
+    .increase-main p {
+        font-size: 22px;
+    }
+    .increase-left span {
+        padding: 0px 6px;
+        font-size: 15px;
+    }
+    .increase-box {
+        padding: 25px 10px;
+    }
+    .increase-right h5 {
+        font-size: 20px;
+    }
+    .increase-right p{
+        font-size: 18px;
+    }
+    .reflection2-main p {
+        font-size: 22px;
+    }
+
+   /*  3D Printed Ducks */
+
+   .brainstorming-main p {
+        font-size: 22px;
+    }
+    .brainstorming-main p span{
+        font-size: 22px;
+    }
+    .duck-main p {
+        margin: 0px 0;
+        font-size: 22px;
+    }
+    .duck-main p span{
+        font-size: 22px;
+    }
+    .feedback-main p {
+        font-size: 22px;
+    }
+    .feedback-box p {
+        font-size: 22px;
+    }
+    .feedback-box span {
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .project-pivot-main p {
+        font-size: 22px;
+    }
+    .branding-main p {
+        font-size: 22px;
+    }
+    .prototyping-main p {
+        font-size: 22px;
+    }
+    .printing-main p {
+        font-size: 22px;
+    }
+    .printing-main p span{
+        font-size: 22px;
+    }
+    .handoff-main p {
+        font-size: 22px;
+    }
+
+    /* Teens Exploring Technology */
+
+    .goal-main-top p {
+        font-size: 22px;
+    }
+    .goal-main-top p span{
+        font-size: 22px;
+    }
+    .goal-main {
+        padding: 60px 20px;
+    }
+    .engagement-main {
+        display: block;
+        padding: 50px 20px;
+    }
+    .box-photo{
+        text-align: center;
+    }
+    .box-photo-2{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .box-photo-3{
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    .box-text h3{
+        font-size: 27px;
+    }
+    .box-text-2 h3{
+        font-size: 27px;
+    }
+    .box-text-3 h3{
+        font-size: 27px;
+    }
+    .box-text {
+        padding-left: 0px;
+    }
+    .box-text-2 {
+        padding-left: 0px;
+    }
+    .box-text-3 {
+        padding-left: 0px;
+    }
+    .box-text P{
+        padding-right: 0px;
+        padding-top: 5px;
+        
+    }
+    .box-text-2 P{
+        padding-right: 0px;
+        padding-top: 5px;
+        font-size: 20px;
+    }
+    .box-text-3 P{
+        padding-right: 0px;
+        padding-top: 5px;
+        font-size: 20px;
+    }
+    .engagement-main-2 {
+        display: block;
+        padding: 50px;
+    }
+    .engagement-main-3 {
+        display: block;
+        padding: 50px;
+    }
+
+    /* about */
+    #home {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .home-text {
+        padding-top: 50px;
+        padding-left:10px;
+        padding-right: 10px;
+    }
+
+    /* MeetCode */
+
+    .impacts-box {
+        padding: 25px 10px;
+    }
+    .impacts-right h5 {
+        font-size: 21px;
+    }
+
+    /*Quick Fit*/  
+
+    .shoppers-iteam-box {
+        padding-bottom: 20px ;
+        height: auto;
+    }
+    .research-box {
+        padding: 25px 10px;
+    }
+    .research-right h5 {
+        font-size: 23px;
+    }
+    /* footer */
+
+    .footer-details{
+        padding: 0 20px;
+    }
+    .footer-social{
+        text-align: center;
+    }
+    .footer-social ul {
+        margin-left: 117px;
+    }
+    .head-title{
+        text-align: left;
+    }
+    .head-top h1{
+        margin-left: 0;
+    }
+    .head-menu ul li{
+        margin-left: 0;
+    }
+    .box-photo img{
+        width: 150px;
+        height: auto;
+    }
+    .box-photo-2 img{
+        width: 150px;
+        height: auto;
+    }
+    .box-photo-3 img{
+        width: 150px;
+        height: auto;
+    }
+    .engagement-main-2{
+        padding: 50px  20px;
+    }
+    .engagement-main-3 {
+        padding: 50px 20px;
+    }
+    .daily-box {
+        padding: 40px 20px;
+    }
+    .approach-main p{
+        font-size: 20px;
+    }
+    .curriculum-main p{
+        font-size: 20px;
+    }
+    .reflection-box{
+        height: auto;
+    }
+    .reflection-main{
+        padding: 50px 20px;
+    }
+    .reflection-top p{
+        font-size: 20px;
+    }
+    .engagement-top p {
+        font-size: 20px;
+    }
+    .engagement-top p span {
+        color: #000;
+        font-weight: 700;
+        font-size: 20px;
+    }
+    .statement-box{
+        padding: 40px 20px;
+    }
+    .context-main p{
+        font-size: 20px;
+    }
+    .modeling-box {
+        padding: 40px 20px;
+    }
+    .design-process-main p{
+        font-size: 20px;
+    }
+    .design-process-main ul li{
+        font-size: 20px;
+    }
+    .design-process-main ul li span{
+        font-size: 20px;
+    }
+    .statement-main p{
+        font-size: 20px;
+    }
+    .statement-main p span{
+        font-size: 20px;
+    }
+    .Project h5 {
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .qravings-branding-main p{
+        font-size: 20px;
+    }
+    .qravings-branding-main p span{
+        font-size: 20px;
+    }
+    .impacts-main p{
+        font-size: 20px;
+    }
+    .impacts-main p span{
+        font-size: 20px;
+    }
+    .shoppers-main p{
+        font-size: 20px;
+    }
+    .shoppers-main p span{
+        font-size: 20px;
+    }
+    .research-main p{
+        font-size: 20px;
+    }
+    .research-main p span{
+        font-size: 20px;
+    }
+    .reflection4-top p{
+        font-size: 20px;
+    }
+    
+    .reflection4-top p span{
+        font-size: 20px;
+    }
+    .challenges2-main p{
+        font-size: 20px;
+    }
+    .challenges2-main ul li span{
+        font-size: 20px;
+    }
+    .reflection2-main p span{
+        font-size: 20px;
+    }
+    
+}
