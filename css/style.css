@@ -250,7 +250,7 @@ li{
     padding-bottom: 20px
 }
 .goal-main{
-    background: #000;
+    background: #282828;
     padding: 60px 50px;
     margin: 30px 0;
 }
@@ -665,7 +665,7 @@ li{
     font-weight: 700;
 }
 .engagement-main{
-    background: #000;
+    background: #282828;
     padding: 50px;
     border-radius: 12px;
     display: flex;
@@ -723,7 +723,7 @@ li{
 }
 
 .engagement-main-3{
-    background: #000;
+    background: #282828;
     padding: 50px;
     border-radius: 12px;
     display: flex;
@@ -946,10 +946,6 @@ li{
     margin-top: 3px;
     font-size: 17px;
 }
-
-#statement{
-
-}
 .statement-box{
     border-radius: 10px;
     background: #282828;
@@ -961,9 +957,8 @@ li{
     font-size: 26px;
     font-weight: 600;
 }
-.statement-box span{
+.statement-box h6{
     font-size: 25px;
-    font-weight: 500;
 }
 .statement-main{
     border-bottom: 2px rgb(213, 206, 206) solid;
@@ -1200,7 +1195,7 @@ li{
     font-weight: 700;
 }
 .engagement-main{
-    background: #000;
+    background: #282828;
     padding: 50px;
     border-radius: 12px;
     display: flex;
@@ -1258,7 +1253,7 @@ li{
 }
 
 .engagement-main-3{
-    background: #000;
+    background: #282828;
     padding: 50px;
     border-radius: 12px;
     display: flex;
@@ -1378,7 +1373,7 @@ li{
     padding: 40px 0;
 }
 .problem2-main{
-    background: #000;
+    background: #282828;
     padding: 60px 50px;
     margin: 30px 0;
 }
@@ -1521,10 +1516,6 @@ li{
     margin-bottom: 25px ;
     font-size: 27px;
 }
-
-#increase{
-   
-}
 .increase-main {
     border-bottom: 2px rgb(213, 206, 206) solid;
     padding: 50px 0;
@@ -1593,9 +1584,6 @@ li{
 #reflection2{
     padding: 50px 0;
 }
-.reflection2-main{
-
-}
 .reflection2-main span{
      font-size: 27px;
      font-weight: 500;
@@ -1609,9 +1597,6 @@ li{
      color: #000;
      font-weight: 700;
 }
-#shoppers{
-
-}
 .shoppers-box{
     border-radius: 10px;
     background: #282828;
@@ -1623,9 +1608,8 @@ li{
     font-size: 26px;
     font-weight: 600;
 }
-.shoppers-box span{
+.shoppers-box h6{
     font-size: 25px;
-    font-weight: 500;
 }
 .shoppers-main{
     border-bottom: 2px rgb(213, 206, 206) solid;
@@ -1648,7 +1632,7 @@ li{
     padding: 15px 0;
 }
 .shoppers-head-main{
-    background: #000;
+    background: #282828;
     padding: 60px 50px;
     margin: 30px 0;
 }
@@ -1704,11 +1688,6 @@ li{
     color: #C9C9C9;
     margin-bottom: 0;
     margin-top: 3px;
-}
-
-
-#research{
-   
 }
 .research-main {
     border-bottom: 2px rgb(213, 206, 206) solid;
@@ -1807,9 +1786,7 @@ li{
 .qravings-branding-all-box{
     color: #868686;
 }
-#reflection4{
-   
-}
+
 .reflection4-top{
     border-bottom: 2px rgb(213, 206, 206) solid;
     padding-bottom: 30px;
@@ -1887,10 +1864,6 @@ li{
 #home{
     padding: 100px 0;
 }
-.home-main{
-
-}
-
 .home-photo img{
     width: 100%;
 }
